@@ -1,9 +1,9 @@
 
-https://github.com/yasminerekik/Enig-Fashion/assets/171456126/250d205f-5785-41e6-bfcb-d3947cd2062d
 # Enig-Fashion
 
 A new Flutter project.
 
 ## Illustrative video of the mobile application's functionality !
 
-Uploading Illustrative video of the mobile app.mp4…
+https://github.com/yasminerekik/Enig-Fashion/assets/171456126/250d205f-5785-41e6-bfcb-d3947cd2062d
+
